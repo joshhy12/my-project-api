@@ -7,6 +7,8 @@ if (!isset($_SESSION['admin'])) {
 ?>
 
 <!DOCTYPE html>
+<link rel="stylesheet" href="style.css">
+
 <html>
 <head><title>Admin Dashboard</title></head>
 <body>
